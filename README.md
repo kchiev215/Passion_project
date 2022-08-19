@@ -1,6 +1,7 @@
 # Rockamendation
 ## Part 1 
 Using the 8a.nu Climbing Logbook, I will be evaluating if weight, height, and length of time an individual has been climbing affects their abilities to complete boulder routes of a higher difficulty level.
+Access to the sqlite database for data analysis can be downloaded at https://www.kaggle.com/datasets/dcohen21/8anu-climbing-logbook
 
 ## Part 2
 Next, I will be using the route information from MountainProject.com to create a database which includes the name of the route, location such as state, gorge, area, crag, and subcrag, the location of the route in longitude and latitude, and the description of boulder routes in the Tri-state area (PA, South & Mid NJ, and DE). Once the table is done, I will be uploading it to a SQLite database.
